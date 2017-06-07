@@ -1241,7 +1241,8 @@
                         "tetrahedral": "Tetrahedral",
                         "concentric": "Concentric",
                         "concentric_3d": "Concentric 3D",
-                        "zigzag": "Zig Zag"
+                        "zigzag": "Zig Zag",
+                        "fermat_spiral": "Fermat Spiral"
                     },
                     "default_value": "grid",
                     "enabled": "infill_sparse_density > 0",
